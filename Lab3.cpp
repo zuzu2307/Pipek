@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	int a,b,c;
+	int a,b;
 	scanf("%d",&a);
 	while(a>1)
 	{
@@ -15,7 +15,7 @@ int main()
 				a/=b;
 				c++;
 			}
-			b++
+			b++;
 		}
 		
 	}
