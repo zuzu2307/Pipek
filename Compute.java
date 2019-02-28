@@ -7,8 +7,8 @@ public class Compute {
                     break;
            case "-":  System.out.println("Result of "+num1  +" "+ args[1]+" "+num2 +" is "+(int)(num1-num2));;
                     break;
-           case "*":  System.out.println("Result of "+num1  +" "+ args[1]+" "+num2 +" is "+(int)(num1*num2))
-              
+           case "*":  System.out.println("Result of "+num1  +" "+ args[1]+" "+num2 +" is "+(int)(num1*num2));
+                    break;
            case "/":  System.out.println("Result of "+num1  +" "+ args[1]+" "+num2 +" is "+(num1/num2));;
                     break;
         }
